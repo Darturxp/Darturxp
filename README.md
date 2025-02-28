@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://co.pinterest.com/pin/39336196738287630/"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNbSsSWpiZfi4gmcPoiqcWU_nA7jJAZdJsmhRwW6weDjFZX85D35Bt8Yv8echehf1em3A&usqp=CAU"  />
 
 ###
 
@@ -45,14 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/darturxp/darturxp/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/314vsgirj4ykahcge2tle6cahpgi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314vsgirj4ykahcge2tle6cahpgi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
+
